@@ -692,10 +692,17 @@ div#txt {
   right: 20px;
   top: 1.5%;
 }
-@media only screen and (max-width:768px)
+@media  screen and (max-width:767px)
 {
-.current-time{
-  margin-bottom: 20px;
+
+.dmy{
+  padding-top: 70px;
+  
 }
+.temperature p{
+  padding-bottom: 100px;
 }
+
+}
+
 
